@@ -1,2 +1,3 @@
 # CS-12th
-here I'll upload my college tasks.
+Welcome to my reprository here i'll be uploading my college task and other C++ assignments that we will be doing during our 12 grade.
+thank you
